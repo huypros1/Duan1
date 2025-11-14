@@ -1,11 +1,15 @@
 <div align="center">
 
+  <!-- Animated Banner -->
   <img src="https://i.pinimg.com/originals/3b/1b/92/3b1b92c051c5254d4671cbb6b4139f56.gif" alt="Banner" width="100%"/>
 
+  <br/>
+
+  <!-- Intro -->
   <h1>Hey ya! I'm <strong>Huy</strong> from Vietnam</h1>
   <p><em>Amateur Back-end Developer • Learning & Building Every Day</em></p>
 
-  <!-- Social Links -->
+  <!-- Social Badges -->
   <div>
     <a href="https://guns.lol/kamikatenzen" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord"/>
@@ -46,6 +50,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" title="TailwindCSS"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular"/>
   </div>
 
   <br/>
@@ -53,30 +59,41 @@
   ## GitHub Stats
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kamikatenzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamikatenzen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=kamikatenzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="GitHub Stats" height="180"/>
+
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamikatenzen&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=7C3AED&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=94A3B8" alt="GitHub Streak" height="180"/>
   </div>
 
   <br/>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamikatenzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamikatenzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex" alt="Top Languages" height="180"/>
   </div>
 
   <br/>
 
+  <!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=kamikatenzen&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
   </p>
 
   <br/>
 
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamikatenzen/kamikatenzen/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamikatenzen/kamikatenzen/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://github.com/kamikatenzen/kamikatenzen/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+
+  <br/><br/>
+
+  <!-- Quote -->
   <blockquote>
     <p><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
   </blockquote>
-
-  <br/>
-
-  <img src="https://github.com/kamikatenzen/kamikatenzen/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
