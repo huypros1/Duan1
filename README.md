@@ -1,10 +1,11 @@
 <div align="center">
+
   <img src="https://i.pinimg.com/originals/3b/1b/92/3b1b92c051c5254d4671cbb6b4139f56.gif" alt="Banner" width="100%"/>
-  
-  <h1>👋 Hey ya! I'm <strong>Huy</strong> from Vietnam</h1>
+
+  <h1>Hey ya! I'm <strong>Huy</strong> from Vietnam</h1>
   <p><em>Amateur Back-end Developer • Learning & Building Every Day</em></p>
 
-  <!-- Social Badges -->
+  <!-- Social Links -->
   <div>
     <a href="https://guns.lol/kamikatenzen" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord"/>
@@ -19,9 +20,9 @@
 
   <br/>
 
-  ## 🛠️ Tech Stack & Tools
+  ## Tech Stack & Tools
 
-  <div align="center">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
@@ -49,12 +50,17 @@
 
   <br/>
 
-  ## 🔥 GitHub Stats
+  ## GitHub Stats
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kamikatenzen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kamikatenzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamikatenzen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamikatenzen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </div>
+
+  <br/>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamikatenzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   </div>
 
   <br/>
@@ -63,7 +69,14 @@
     <img src="https://komarev.com/ghpvc/?username=kamikatenzen&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
   </p>
 
+  <br/>
+
   <blockquote>
     <p><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
   </blockquote>
+
+  <br/>
+
+  <img src="https://github.com/kamikatenzen/kamikatenzen/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 </div>
