@@ -13,11 +13,11 @@
 
 ###
 
-<h1 align="center">Hey ya👋<br>I'm Huy from Viet Nam<br>I'm an amateur Back-end programmer</h1>
+<h1 align="center"><br>PROJECT XỊN NHẤT VN<br></h1>
 
 ###
 
-<h3 align="left">🛠 Language and tools i known!</h3>
+<h3 align="left">🛠 LANGUAGE USED</h3>
 
 ###
 
