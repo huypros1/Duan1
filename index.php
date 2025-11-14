@@ -1,2 +1,2 @@
 <?php
-    echo"LOL";  
+    echo"LOL con chóa huy";
